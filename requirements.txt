@@ -3,3 +3,8 @@ numpy
 streamlit
 sklearn
 pillow
+tensorflow
+PIL
+skimage
+imutils
+mediapipe
